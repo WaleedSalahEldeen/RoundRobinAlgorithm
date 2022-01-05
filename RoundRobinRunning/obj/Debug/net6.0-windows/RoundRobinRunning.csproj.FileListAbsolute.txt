@@ -1,0 +1,17 @@
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\bin\Debug\net6.0-windows\RoundRobinRunning.exe
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\bin\Debug\net6.0-windows\RoundRobinRunning.deps.json
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\bin\Debug\net6.0-windows\RoundRobinRunning.runtimeconfig.json
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\bin\Debug\net6.0-windows\RoundRobinRunning.dll
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\bin\Debug\net6.0-windows\ref\RoundRobinRunning.dll
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\bin\Debug\net6.0-windows\RoundRobinRunning.pdb
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\obj\Debug\net6.0-windows\RoundRobinRunning.csproj.AssemblyReference.cache
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\obj\Debug\net6.0-windows\RoundRobinRunning.csproj.GenerateResource.cache
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\obj\Debug\net6.0-windows\RoundRobinRunning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\obj\Debug\net6.0-windows\RoundRobinRunning.AssemblyInfoInputs.cache
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\obj\Debug\net6.0-windows\RoundRobinRunning.AssemblyInfo.cs
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\obj\Debug\net6.0-windows\RoundRobinRunning.csproj.CoreCompileInputs.cache
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\obj\Debug\net6.0-windows\RoundRobinRunning.dll
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\obj\Debug\net6.0-windows\ref\RoundRobinRunning.dll
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\obj\Debug\net6.0-windows\RoundRobinRunning.pdb
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\obj\Debug\net6.0-windows\RoundRobinRunning.genruntimeconfig.cache
+C:\Users\waleedsalaheldin\source\repos\RoundRobinRunning\RoundRobinRunning\obj\Debug\net6.0-windows\RoundRobinRunning.main.resources
